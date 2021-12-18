@@ -1,0 +1,18 @@
+
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: #8E806A;
+    text-align: center;
+}
+
+h1 {
+ font-weight: bold;
+}
+
+ul,
+ol {
+    text-align: justify;
+    position: relative;
+    left: 700px;
+}
